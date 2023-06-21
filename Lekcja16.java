@@ -1,6 +1,6 @@
 public class Lekcja16 {
     public static void main(String[] args){
-        int liczba = 50;
+        int liczba = 20;
         int liczba2 = liczba;
         liczba2 = 111;
         System.out.println("Liczba przed: " + liczba);

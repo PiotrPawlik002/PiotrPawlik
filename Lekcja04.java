@@ -18,5 +18,6 @@ public class Lekcja04 {
     */
 
 	// pierwsza modyfikacja
+	// 2+2=4
 
 }

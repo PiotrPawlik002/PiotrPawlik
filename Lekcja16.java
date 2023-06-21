@@ -24,3 +24,5 @@ public class Lekcja16 {
     }
 
 }
+// ostatnia modyfikacja
+
